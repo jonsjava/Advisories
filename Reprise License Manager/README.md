@@ -8,7 +8,6 @@
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
 <br />- Reference:
-<br />https://reprise.com
 <br />https://www.reprisesoftware.com/
 <br /><br />############################################################<br />
 <br />**[CVE-2021-37499] CRLF Injection**
@@ -19,7 +18,6 @@
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
 <br />- Reference:
-<br />https://reprise.com
 <br />https://www.reprisesoftware.com/
 <br /><br />############################################################<br />
 <br />**[CVE-2021-37500] Directory Traversal**
@@ -31,5 +29,4 @@
 <br />- Attack Type: Remote
 <br />- Author: Blakduk
 <br />- Reference:
-<br />https://reprise.com
 <br />https://www.reprisesoftware.com/
